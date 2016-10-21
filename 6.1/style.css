@@ -1,0 +1,12 @@
+.canvas{
+    width:100%;
+    min-height:600px;
+}
+
+.axis-y>.domain{
+	stroke: #fff;
+}
+
+.axis-y .tick line {
+	stroke: #fff;
+}
